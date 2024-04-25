@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliAmini
 - 👀 I’m interested in JavaScript, ReactJS and NodeJS
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning more about Microservices
 - 📫 You can reach me by my email (aliamini.code@gmail.com) or my [linkedin](https://www.linkedin.com/in/ali-amini-dev)
 
 <!---
